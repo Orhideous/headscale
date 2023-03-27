@@ -34,3 +34,6 @@ result
 .direnv/
 
 integration_test/etc/config.dump.yaml
+
+# MkDocs
+.cache
